@@ -4,7 +4,7 @@ import { VideoCameraIcon, TrendingUpIcon, DevicePhoneMobileIcon, CurrencyDollarI
 const benefits = [
   {
     icon: <VideoCameraIcon />,
-    title: 'Mais de 1500 Vídeos Prontos',
+    title: 'Mais de 50.000 Vídeos Prontos',
     description: 'Acesso a uma biblioteca massiva de conteúdo de alta qualidade.'
   },
   {
@@ -51,7 +51,7 @@ const BenefitsSection: React.FC = () => {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl sm:text-4xl font-extrabold uppercase tracking-tight">
-            Por que o <span className="text-red-500">MoneyClips 1500+</span> é um atalho para o sucesso?
+            Por que o <span className="text-red-500">MoneyClips 50k+</span> é um atalho para o sucesso?
           </h2>
           <p className="mt-4 text-lg text-gray-400 max-w-3xl mx-auto">
             Deixe o trabalho pesado de lado. Foco total em monetizar e crescer sua audiência com conteúdo que já funciona.
