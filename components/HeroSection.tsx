@@ -11,12 +11,12 @@ const HeroSection: React.FC = () => {
       </div>
       <div className="relative z-10 max-w-4xl mx-auto flex flex-col items-center">
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black uppercase tracking-tighter leading-tight mb-4">
-          <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-red-700">MoneyClips 1500+</span>
+          <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-red-700">MoneyClips 50k+</span>
           <br />
           A Máquina de Conteúdo Que Monetiza por Você
         </h1>
         <p className="max-w-2xl mx-auto text-lg sm:text-xl md:text-2xl text-gray-300 mb-8 font-light">
-          Mais de 1500 cortes virais prontos de filmes, séries, famosos e conteúdo milionário para você postar e crescer rápido.
+          Mais de 50 mil cortes virais prontos de filmes, séries, famosos e conteúdo milionário para você postar e crescer rápido.
         </p>
         <CTAButton>Quero Acessar Agora</CTAButton>
       </div>
