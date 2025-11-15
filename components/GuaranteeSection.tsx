@@ -16,7 +16,7 @@ const GuaranteeSection: React.FC = () => {
               Garantia Incondicional de 7 Dias
             </h3>
             <p className="text-gray-300 text-lg">
-              Sua satisfação é nossa prioridade máxima. Se por qualquer motivo você não ficar 100% satisfeito com o MoneyClips 1500+, basta nos enviar um único e-mail dentro de 7 dias após a compra e nós devolveremos todo o seu dinheiro. Sem perguntas, sem burocracia. O risco é todo nosso.
+              Sua satisfação é nossa prioridade máxima. Se por qualquer motivo você não ficar 100% satisfeito com o MoneyClips 50k+, basta nos enviar um único e-mail dentro de 7 dias após a compra e nós devolveremos todo o seu dinheiro. Sem perguntas, sem burocracia. O risco é todo nosso.
             </p>
           </div>
         </div>
