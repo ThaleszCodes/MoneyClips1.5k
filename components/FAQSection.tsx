@@ -4,7 +4,7 @@ import { ChevronDownIcon } from './icons/FeatureIcons';
 const faqs = [
   {
     question: 'O que eu recebo exatamente?',
-    answer: 'Você recebe acesso imediato a uma pasta no Google Drive com mais de 1500 vídeos verticais (cortes) em alta definição, prontos para baixar e postar no TikTok, Reels e Shorts. O conteúdo é variado, incluindo cenas de filmes, séries, podcasts, e muito mais.'
+    answer: 'Você recebe acesso imediato a uma pasta no Google Drive com mais de 50.000+ vídeos verticais (cortes) em alta definição, prontos para baixar e postar no TikTok, Reels e Shorts. O conteúdo é variado, incluindo cenas de filmes, séries, podcasts, e muito mais.'
   },
   {
     question: 'Como o acesso é entregue?',
