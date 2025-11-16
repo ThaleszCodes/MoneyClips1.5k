@@ -8,14 +8,14 @@ const faqs = [
   },
   {
     question: 'Como o acesso é entregue?',
-    answer: 'Assim que o pagamento for confirmado, você receberá um e-mail da Kiwify com o link de acesso vitalício à pasta com todo o conteúdo. É tudo automático e imediato.'
+    answer: 'Assim que o pagamento for confirmado, você receberá um e-mail da Cakto com o link de acesso vitalício à pasta com todo o conteúdo. É tudo automático e imediato.'
   },
   {
     question: 'Os vídeos têm alguma marca d\'água?',
     answer: 'Não. Todos os vídeos são limpos, sem qualquer marca d\'água ou logo, prontos para você adicionar sua própria identidade visual se desejar.'
   },
   {
-    question: 'O pagamento de R$8,90 é único?',
+    question: 'O pagamento de R$29,90 é único?',
     answer: 'Sim! É um pagamento único. Você paga uma vez e tem acesso para sempre a todo o pacote, sem mensalidades ou taxas escondidas.'
   },
   {
@@ -24,7 +24,7 @@ const faqs = [
   },
   {
     question: 'O pagamento é seguro?',
-    answer: 'Sim, 100% seguro. O pagamento é processado pela Kiwify, uma das maiores e mais seguras plataformas de produtos digitais do Brasil, utilizando criptografia de ponta.'
+    answer: 'Sim, 100% seguro. O pagamento é processado pela Cakto, uma das maiores e mais seguras plataformas de produtos digitais do Brasil, utilizando criptografia de ponta.'
   }
 ];
 
