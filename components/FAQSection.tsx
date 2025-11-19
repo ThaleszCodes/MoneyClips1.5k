@@ -15,7 +15,7 @@ const faqs = [
     answer: 'Não. Todos os vídeos são limpos, sem qualquer marca d\'água ou logo, prontos para você adicionar sua própria identidade visual se desejar.'
   },
   {
-    question: 'O pagamento de R$29,90 é único?',
+    question: 'O pagamento de R$8,90 é único?',
     answer: 'Sim! É um pagamento único. Você paga uma vez e tem acesso para sempre a todo o pacote, sem mensalidades ou taxas escondidas.'
   },
   {
