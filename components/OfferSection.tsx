@@ -12,7 +12,7 @@ const OfferSection: React.FC = () => {
           <h2 className="text-2xl sm:text-3xl font-bold uppercase text-gray-300 mb-2">Oferta Exclusiva de Lançamento</h2>
           <p className="text-lg text-red-400 mb-6">Acesso Imediato e Vitalício por Apenas:</p>
           <div className="flex items-center justify-center gap-4 mb-4">
-            <span className="text-6xl sm:text-8xl font-black text-white leading-none">R$29,90</span>
+            <span className="text-6xl sm:text-8xl font-black text-white leading-none">R$8,90</span>
             <span className="text-2xl sm:text-4xl font-bold text-gray-500 line-through">R$297</span>
           </div>
           <p className="font-semibold text-white mb-8">Pagamento único. Sem mensalidades.</p>
